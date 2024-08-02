@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Purpose/Overview](#purposeoverview)
 2. [Features](#features)
-3. [Special Features](#special-features)
+3. [Special Features](#special-feature)
 4. [Running the Program](#running-the-program)
 5. [Specifications](#specifications)
 
@@ -24,12 +24,17 @@ The FCB Series Menu includes advanced functionality with motion detection combin
 
 ## Running the Program
 To run the FCB Series Menu program:
-1. Ensure your system meets the [Specifications](#specifications) outlined below.
-2. Compile the C source code if necessary.
-3. Execute the compiled program from your terminal with the appropriate command.
+1. Make sure you are in the correct Directory
+   ``` shell
+   $ cd Desktop/visca
+2. Clean your Directory
+   ``` shell
+   $ make clean
+3. run the menu program
+   ``` shell
+   $ ./visca
 
 ## Specifications
 - **Operating Systems**: Designed to run on Linux 64-bit Desktop and Embedded 64-bit ARM NVIDIA Jetson operating systems.
-- **Requirements**: Ensure you have the necessary dependencies and libraries installed for optimal performance.
 
-For further details or troubleshooting, consult the [Documentation](#) or [Contact Support](#).
+
