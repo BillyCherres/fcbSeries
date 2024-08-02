@@ -6,6 +6,8 @@
 3. [Special Features](#special-feature)
 4. [Running the Program](#running-the-program)
 5. [Specifications](#specifications)
+6.  [Disclaimer](#disclaimer)
+7. [Contact Information](#contact-information)
 
 ## Purpose/Overview
 The **FCB Series Menu** is a terminal-based interface designed to facilitate control over FCB security block cameras. This program, written in C, allows users to interact with various camera functions and settings efficiently.
@@ -37,4 +39,12 @@ To run the FCB Series Menu program:
 ## Specifications
 - **Operating Systems**: Designed to run on Linux 64-bit Desktop and Embedded 64-bit ARM NVIDIA Jetson operating systems.
 
+## Disclaimer
+This menu has been tested on 1 FCB camera model (E9500H) and is assumed to be compatible with every FCB camera based on the similarities between all camera models.
 
+
+## Contact Information
+
+For any questions or support, please reach out to:
+
+**School Email:** cherresb@grinnell.edu
