@@ -19,7 +19,7 @@ The **FCB Series Menu** is a terminal-based interface designed to facilitate con
 - **IQ**: Adjust image quality settings.
 - **Extend**: Access additional functionalities or extensions.
 
-## Special Features
+## Special Feature
 The FCB Series Menu includes advanced functionality with motion detection combined with spot focus. The program captures and analyzes four distinct frames—top left, top right, bottom left, and bottom right of the screen. When motion is detected in any of these frames, an alert is sent to the terminal indicating which frame detected the motion. The frame with detected motion is then focused in on using the spot focus feature, ensuring detailed observation of the area of interest.
 
 ## Running the Program
