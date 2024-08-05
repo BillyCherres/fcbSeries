@@ -43,7 +43,7 @@ To run the FCB Series Menu program:
 - **Operating Systems**: Designed to run on both Linux 64-bit Desktop and Embedded 64-bit ARM NVIDIA Jetson operating systems.
 
 ## Disclaimer
-This menu has been tested on 1 FCB camera model (E9500H) and is assumed to be compatible with every FCB camera based on the similarities between all camera models.
+This menu has been tested on 1 FCB camera model (EW9500H) and is assumed to be compatible with every FCB camera based on the similarities between all camera models.
 
 
 ## Contact Information
