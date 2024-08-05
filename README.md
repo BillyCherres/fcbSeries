@@ -32,7 +32,10 @@ To run the FCB Series Menu program:
 2. Clean your Directory
    ``` shell
    $ make clean
-3. run the menu program
+3. run make
+   ``` shell
+   $ make 
+4. run the menu program
    ``` shell
    $ ./visca
 
