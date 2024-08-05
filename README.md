@@ -28,7 +28,7 @@ The FCB Series Menu includes advanced functionality with motion detection combin
 To run the FCB Series Menu program:
 1. Make sure you are in the correct Directory
    ``` shell
-   $ cd Desktop/visca
+   $ cd FCB/visca
 2. Clean your Directory
    ``` shell
    $ make clean
